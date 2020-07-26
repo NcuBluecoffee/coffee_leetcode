@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/6/9 10:28:28。
+     1>项目“D:\0document\C++study\黑马最新c、c++全栈培训第24期资料（压缩版）\05stl\03-c++day13_贪吃蛇案例\code\贪食蛇案例\汪明贪吃蛇\汪明贪吃蛇.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt snake.cpp
+         snake.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\0document\C++study\黑马最新c、c++全栈培训第24期资料（压缩版）\05stl\03-c++day13_贪吃蛇案例\code\贪食蛇案例\Debug\汪明贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\0document\C++study\黑马最新c、c++全栈培训第24期资料（压缩版）\05stl\03-c++day13_贪吃蛇案例\code\贪食蛇案例\Debug\汪明贪吃蛇.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\0document\C++study\黑马最新c、c++全栈培训第24期资料（压缩版）\05stl\03-c++day13_贪吃蛇案例\code\贪食蛇案例\Debug\汪明贪吃蛇.lib" /MACHINE:X86 Debug\food.obj
+         Debug\game.obj
+         Debug\snake.obj
+         Debug\wall.obj
+         汪明贪吃蛇.vcxproj -> D:\0document\C++study\黑马最新c、c++全栈培训第24期资料（压缩版）\05stl\03-c++day13_贪吃蛇案例\code\贪食蛇案例\Debug\汪明贪吃蛇.exe
+     1>已完成生成项目“D:\0document\C++study\黑马最新c、c++全栈培训第24期资料（压缩版）\05stl\03-c++day13_贪吃蛇案例\code\贪食蛇案例\汪明贪吃蛇\汪明贪吃蛇.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.25
